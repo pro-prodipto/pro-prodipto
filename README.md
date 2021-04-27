@@ -11,4 +11,4 @@ Who knows we might build an empire in Future :smirk:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pro-prodipto)]
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pro-prodipto)

@@ -15,3 +15,11 @@ Who knows we might build an empire in Future :smirk:
 <img align="left" alt="pro-prodipto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pro-prodipto&show_icons=true&theme=dracula" width="50%" />
 <img alt="Top Languages used by me" src="https://github-readme-stats-zeta-sand.vercel.app/api/top-langs/?username=pro-prodipto&layout=compact&theme=dracula" width="46%" />
 <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=pro-prodipto&theme=dracula" width="98%">
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Now Vibe to this :
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="pro-prodipto's Spotify List" width="100%" />](https://open.spotify.com/playlist/0wVetG7KWNa4VmvHnJ9BsW)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

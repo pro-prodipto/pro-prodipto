@@ -1,6 +1,6 @@
 ![](main.png)
 -----------------------------------------------------------------------------------------
-## About Me :love_you_gesture: 
+## About Me :
 Hey, 
 I'm __Pradipto Karmakar__, a 2nd Year __BTech__ Student in __Electronics & Communicaton Tech.__ at __RCC Institute of Information Technology__. I am also an __Electronics Enthusiast__ and Hobbyist, an __Open Source Contributor__ and neither a __Competetive Programmer__ nor a __Web Developer__.
 
